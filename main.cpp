@@ -5,7 +5,7 @@
 using std::cin,std::cout;
 
 
-void clearscreen()  
+void clearscreen()   
 {
   #ifdef _WIN32     //checks if the program is running from a Windows operating system.
     system("cls");  //if it does, it runs this command, which clears old data from the screen (runs only on windows).
@@ -47,8 +47,6 @@ int main()
             clearscreen();
             COinput = g.compinput();
             g.result(USinput,COinput);
-            sleep(2);
-            clearscreen();
             cout << "Play Again? (Y/N)\n";
             cin >> answer;
             s = validinput(answer);
