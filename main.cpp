@@ -2,7 +2,7 @@
 #include <unistd.h>
 #include "rps.hpp"
 
-using std::cin,std::cout;
+using std::cin,std::cout; 
 
 
 void clearscreen()   

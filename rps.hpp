@@ -4,7 +4,7 @@ using std::string;
 class game
 {
     public:
-    game(int x,int y);
+    game(int x,int y); 
     string userinput();
     string compinput();
     void result(const string user,const string computer);

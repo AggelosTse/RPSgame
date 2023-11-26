@@ -2,7 +2,7 @@
 #include <limits>
 #include "rps.hpp"
 
-using std::cout,std::cin,std::string;
+using std::cout,std::cin,std::string; 
 
 
 game::game(int x,int y)     //initializes classe's variables.
