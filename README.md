@@ -4,19 +4,18 @@
 
 # Instructions
 
-1)Clone the repository with this command:
+1) Clone the repository with this command:
 
-  'git clone https://github.com/AggelosTse/RPSgame.git'
+  ``$ git clone https://github.com/AggelosTse/RPSgame.git``
   
-2)navigate into the project's directory:
+2) navigate into the project's directory:
 
-  cd RPSgame
+  ``$ cd RPSgame ``
   
-3)Compile it with this command:
+3) Compile it with this command:
 
-  g++ main.cpp rps.cpp -o hello
+  ``$ g++ main.cpp rps.cpp -o hello``
   
-4)Run it:
-  if you have linux or macOS, write this command: ./hello
-  
-  if you have windows, write this command: hello.exe
+4) Run it:<br>
+Linux or macOS:<br> ``$ ./hello``
+<br>Windows: <br> ``$ hello.exe``
