@@ -1,8 +1,19 @@
-# Rock-Paper-Scissors
+# Rock-Paper-Scissors Game (c++)
 
--A simple rock-paper-scissors game i made in 1 day, for practice purposes.
+A lightweight, terminal-based implementation of the classic Rock-Paper-Scissors game. This project was developed in a **single day** as a focused practice session to master C++ conditional logic and random number generation.
 
-# Instructions
+---
+
+## Features
+
+* **Man vs. Machine:** Play against an AI that makes randomized, unpredictable moves.
+* **Instant Feedback:** Immediate win/loss/tie detection after every round.
+* **Score Tracking:** Keeps count of your victories.
+* **Fast Iteration:** Designed for quick rounds directly in your command line.
+
+---
+
+## Installation & Setup
 
 1)Clone the repository with this command:
 
